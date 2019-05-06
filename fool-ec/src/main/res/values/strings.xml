@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">fool-ec</string>
+    <string name="launcher_jump">跳过</string>
+    <string name="sign_in">登陆</string>
+    <string name="sign_up">注册</string>
+    <string name="input_username">用户名</string>
+    <string name="input_password">密码</string>
+    <string name="input_password_confirm">确认密码</string>
+    <string name="go_sign_in">GO登陆</string>
+    <string name="go_sign_up">GO注册</string>
+</resources>

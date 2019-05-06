@@ -1,0 +1,1 @@
+include ':app', ':fool-annotations', ':fool-compiler', ':fool-core', ':fool-ec'
